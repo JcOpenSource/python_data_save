@@ -1,0 +1,6 @@
+fw = open('t2.txt', 'w')
+fw.write('hello boy!')
+fw.write('hello boy!')
+fw.write('hello boy!')
+fw.write('hello boy!\n')
+fw.write('hello boy!')
